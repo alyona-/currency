@@ -26,25 +26,34 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="43" selection-start="2692" selection-end="2692" vertical-scroll-proportion="-22.307692" vertical-offset="763" max-vertical-offset="1530">
+            <state line="78" column="39" selection-start="2648" selection-end="2648" vertical-scroll-proportion="-20.346153" vertical-offset="797" max-vertical-offset="1530">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main_styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/main_styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="16" selection-start="336" selection-end="336" vertical-scroll-proportion="0.38076416" vertical-offset="0" max-vertical-offset="759">
+            <state line="47" column="21" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="button_styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/button_styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="1" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="45" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="924" max-vertical-offset="1683">
+            <state line="96" column="0" selection-start="3341" selection-end="3341" vertical-scroll-proportion="0.7088274" vertical-offset="1060" max-vertical-offset="1870">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -62,9 +71,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/js.js" />
-        <option value="$PROJECT_DIR$/styles/main_styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/button_styles.css" />
+        <option value="$PROJECT_DIR$/styles/main_styles.css" />
+        <option value="$PROJECT_DIR$/js/js.js" />
       </list>
     </option>
   </component>
@@ -167,7 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="0" width="1824" height="919" extended-state="1" />
+    <frame x="4" y="0" width="1824" height="919" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -203,24 +213,31 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="43" selection-start="2692" selection-end="2692" vertical-scroll-proportion="-22.307692" vertical-offset="763" max-vertical-offset="1530">
+        <state line="78" column="39" selection-start="2648" selection-end="2648" vertical-scroll-proportion="-20.346153" vertical-offset="797" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="21" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/button_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="45" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="924" max-vertical-offset="1683">
+        <state line="96" column="0" selection-start="3341" selection-end="3341" vertical-scroll-proportion="0.7088274" vertical-offset="1060" max-vertical-offset="1870">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main_styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="336" selection-end="336" vertical-scroll-proportion="0.38076416" vertical-offset="0" max-vertical-offset="759">
-          <folding />
         </state>
       </provider>
     </entry>

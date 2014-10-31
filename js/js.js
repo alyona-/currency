@@ -17,6 +17,8 @@ page.str = new String();
  page.usd[2]= document.getElementsByClassName('usd')[2]; */
 
 page.result = document.getElementsByClassName('result')[0];
+page.clear =document.getElementsByClassName('clear')[0];
+page.selectAll = document.getElementsByClassName('selectAll')[0];
 
 
 
@@ -92,5 +94,13 @@ page.getValue.addEventListener('click',function (){
     '<p>&nbsp;</p>';
     page.result.innerText = page.str;
 
+
+},false);
+page.clear.addEventListener('click',function(){
+    page.result.innerText='';
+},false);
+
+page.selectAll.addEventListener('click',function(){
+    page.result.select();
 
 },false);
