@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Обновление курсов валют на сайте</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+</head>
+<body>
+
+<div class="valuta">
+    <h2>Курсы валют</h2>
+    <table class="currency" border="0" cellspacing="1" cellpadding="1" width="633" align="center">
+        <!--thead-->
+        <tr>
+            <td colspan="3" align="center">
+               <!--по состоянию на 31.10.2014 г. -->
+                по состоянию на
+                <input type="text" class="date" value="31.10.2014">
+                г.
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><strong>Валюта:</strong></td>
+            <td align="center"><strong>Покупка</strong></td>
+            <td align="center"><strong>Продажа</strong></td>
+        </tr>
+        <!--/thead-->
+        <!--tbody-->
+        <tr>
+            <td class="rtecenter">   USD
+               <!-- <input type="text" value="USD" class="usd"> -->
+            </td>
+            <td class="rtecenter">  <!--41.00-->
+                <input type="text" value="41.00" class="usd">
+            </td>
+            <td class="rtecenter" ><!--44.00-->
+                <input type="text" value="44.00" class="usd">
+            </td>
+        </tr>
+        <tr>
+            <td class="rtecenter">EUR
+             <!--   <input type="text" value="EUR" class="eur"/>-->
+            </td>
+            <td class="rtecenter"><!--53.00-->
+                <input type="text" value="53.00" class="eur"/>
+            </td>
+            <td class="rtecenter"><!--55.50-->
+                <input type="text" value="55.50" class="eur"/>
+            </td>
+        </tr>
+        <tr>
+            <td class="rtecenter">UAH
+               <!-- <input type="text" value="UAH" class="uah"/>-->
+            </td>
+            <td class="rtecenter"><!--28.00-->
+                <input type="text" value="28.00" class="uah"/>
+            </td>
+            <td class="rtecenter"><!--32.90-->
+                <input type="text" value="32.90" class="uah"/>
+            </td>
+        </tr>
+        <tr>
+            <td class="rtecenter">GBP
+              <!--  <input type="text" value="GBP" class="gbp"/>-->
+            </td>
+            <td class="rtecenter"><!--64.00-->
+                <input type="text" value="64.00" class="gbp"/>
+            </td>
+            <td class="rtecenter"><!--69.00-->
+                <input type="text" value="69.00" class="gbp"/>
+            </td>
+        </tr>
+        <!--/tbody-->
+    </table>
+</div>
+<p>&nbsp;</p>
+
+<button class="getValue">Узнать</button>
+<button class="clear">Очистить</button>
+<button class="ctrlA">Выделить все</button>
+<textarea class="result"></textarea>
+
+<script src="js/js.js"></script>
+</body>
+</html>
