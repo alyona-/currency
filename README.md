@@ -1,4 +1,4 @@
 currency
 ========
 
-Обновление курсов валют UAH, EUR, USD, GBP
+Обновление курса валют UAH, EUR, USD, GBP
